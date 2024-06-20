@@ -1,0 +1,31 @@
+body{
+    text-align: center;
+}
+#txt {
+    font-size: 25px;
+    margin-top: 15%;
+    margin-bottom: 5%;
+}
+#btn{
+    text-align: center;
+    width: 200px;
+    height: 73px;
+    line-height: 78px;
+    font-size: 24px;
+    border-radius: 39px;
+    text-decoration: none;
+    background-color: #fe447c;
+    color: #fbfbfb;
+    
+}
+#btn1{
+    width: 200px;
+    height: 73px;
+    line-height: 78px;
+    font-size: 24px;
+    border-radius: 39px;
+    text-decoration: none;
+    background-color: #ffffff;
+    color: #000000;
+    text-align: center;
+}
